@@ -71,7 +71,8 @@ _Emotion-based Smart Recipe Recommendation App_
 
 ## 📷 앱 시연 영상
 
-![Moodish 예시](https://youtube.com/shorts/31V_5PTkgHg?feature=share)
+[👉 시연 영상 보러가기](https://youtube.com/shorts/31V_5PTkgHg?feature=share)
+
 
 ---
 
